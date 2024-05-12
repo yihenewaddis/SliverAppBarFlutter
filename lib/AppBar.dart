@@ -152,6 +152,11 @@ class _AppBarTestState extends State<AppBarTest> {
                   Text('this is yihenew'),
                   Text('this is yihenew'),
                   Text('this is yihenew'),
+                  Text('this is yihenew'),
+                  Text('this is yihenew'),
+                  Text('this is yihenew'),
+                  Text('this is yihenew'),
+                  Text('this is yihenew'),
 
                 ],
               ),

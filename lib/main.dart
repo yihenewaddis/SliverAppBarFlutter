@@ -15,4 +15,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-Controler.pageController.nextPage(duration: Duration(seconds: 1), curve: Curves.easeInOut);
+// Controler.pageController.nextPage(duration: Duration(seconds: 1), curve: Curves.easeInOut);

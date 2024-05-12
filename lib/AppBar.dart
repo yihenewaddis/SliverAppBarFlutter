@@ -87,6 +87,7 @@ class _AppBarTestState extends State<AppBarTest> {
                 
               ),
             ),
+            
             SliverToBoxAdapter(
               child: Column(
                 children: [
@@ -95,6 +96,11 @@ class _AppBarTestState extends State<AppBarTest> {
                     child:const Text("Visible",style: TextStyle(
                     color: Colors.red
                   ),)),
+                  Text('this is yihenew'),
+                  Text('this is yihenew'),
+                  Text('this is yihenew'),
+                  Text('this is yihenew'),
+                  Text('this is yihenew'),
                   Text('this is yihenew'),
                   Text('this is yihenew'),
                   Text('this is yihenew'),
